@@ -1,0 +1,25 @@
+{
+  "name": "wx-miniprogram-sdk-nodejs",
+  "version": "1.0.0",
+  "description": "微信小程序服务端接口sdk集成",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysd-jh/wx-miniprogram-sdk-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysd-jh/wx-miniprogram-sdk-nodejs/issues"
+  },
+  "homepage": "https://github.com/ysd-jh/wx-miniprogram-sdk-nodejs#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "mocha": "^6.2.2",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0"
+  }
+}
