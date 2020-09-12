@@ -19,7 +19,7 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "mocha": "^6.2.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "redis": "^2.8.0"
   }
 }
